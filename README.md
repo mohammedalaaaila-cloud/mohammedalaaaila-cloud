@@ -21,7 +21,7 @@
 
 <h2>Check My Projects</h2>
 <a href="#" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:134e5e,100:0c2d48&height=300&section=header&text=My%20Work&fontSize=40&fontColor=ffffff">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:134e5e,100:0c2d48&height=200&section=header&text=My%20Work&fontSize=40&fontColor=ffffff">
 </a>
 
 <h2>Latest Projects</h2>
