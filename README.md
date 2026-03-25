@@ -24,20 +24,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:134e5e,100:0c2d48&height=200&section=header&text=My%20Work&fontSize=40&fontColor=ffffff">
 </a>
 
-<h2>Latest Projects</h2>
-<ul>
-<li><a href="#">E-commerce Website (React + Laravel)</a></li>
-<li><a href="#">Portfolio Website (React + Tailwind)</a></li>
-<li><a href="#">Admin Dashboard</a></li>
-<li><a href="#">API Integrated Web Apps</a></li>
-<li><a href="#">Landing Pages (HTML, CSS, JS)</a></li>
-</ul>
+
 
 <p><a href="#">➡️ More projects</a></p>
 
 <h2>Latest Learning & Updates</h2>
 <ul>
-<li><a href="#">Advanced React Patterns & Performance</a></li>
+
 <li><a href="#">Tailwind Best Practices</a></li>
 <li><a href="#">Building Scalable UI Components</a></li>
 <li><a href="#">Working with REST APIs</a></li>
